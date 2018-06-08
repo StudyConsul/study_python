@@ -1,0 +1,2 @@
+def hours():
+	print("daily")
